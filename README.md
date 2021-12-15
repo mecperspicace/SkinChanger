@@ -1,4 +1,3 @@
----------------
 # SkinChanger v1.0
 ## Presentation :
 This plugin is in 1.8 minecraft version, this plugin is a skin changer plugin. The plugin will change the player's skin for season, the default season is christmas, the player's skin will be randomly change between 4 skin predefined (you can change the skin and add/remove season) at the player's login. The plugin is optimized for 1.8 but i think it will work correctly in 1.8+. The plugin will be load by server before the map for not interrupt other plugin. The v1.1 will be comming soon.
@@ -16,5 +15,19 @@ This plugin is in 1.8 minecraft version, this plugin is a skin changer plugin. T
 ## Code :
 - Made with JetBrains InteliJ IDEA
 - Using Spigot API
-- Under APACHE 2.0 LICENSE
---------
+## License :
+Copyright 2021 Gabriel MERCIER
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+-----------------------------------------------------
