@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class SMain extends JavaPlugin {
 
     /*
-    Copyright [2021] [MERCIER GABRIEL]
+    Copyright 2021 MERCIER GABRIEL
 
 
     Licensed under the Apache License, Version 2.0 (the "License");
