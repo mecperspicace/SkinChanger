@@ -7,5 +7,5 @@ database: false
 commands:
   s:
     permission: skinchanger.s.*
-    permission-message: §cYou can't use this with actual permission. Please contact the administrator of the server.
+    permission-message: §cYou can't use this with actual permission. Please contact the server's administrator.
     description: The main command of the plugin. Type /s for help.
