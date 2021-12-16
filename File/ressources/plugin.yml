@@ -2,6 +2,7 @@ main: fr.gabrielmercier.skinchanger.SMain
 name: SkinChanger
 version: 1.0
 author: Gabriel MERCIER
+website: https://github.com/gabrielmercier/SkinChanger/
 load: STARTUP
 database: false
 commands:
