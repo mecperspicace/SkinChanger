@@ -1,6 +1,6 @@
 # SkinChanger v1.0
 ## Presentation :
-This plugin is in 1.8 minecraft version, this plugin is a skin changer plugin. The plugin will change the player's skin for season, the default season is christmas, the player's skin will be randomly change between 4 skin predefined (you can change the skin and add/remove season) at the player's login. The plugin is optimized for 1.8 but i think it will work correctly in 1.8+. The plugin will be load by server before the map for not interrupt other plugin. The v1.1 will be comming soon.
+This plugin is in 1.8 minecraft version, it is a skin changer plugin. It will change the player's skin for season, the default season is christmas, the player's skin will be randomly change between 4 skin predefined (you can change the skin and add/remove season) at the player's login. The plugin is optimized for 1.8 but i think it will work correctly in 1.8+. The plugin will be load by server before the map for not interrupt other plugin. The v1.1 will be comming soon.
 ## Installation :
 1) In build folder, you will be find the complied plugin in .jar.
 2) Download the [SkinChangerv1.0.jar](https://github.com/gabrielmercier/SkinChanger/blob/main/Build/SkinChangerv1.0.jar) and place it in your plugin's folgder of your minecaft server.
