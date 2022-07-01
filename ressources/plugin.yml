@@ -1,0 +1,15 @@
+main: fr.mecperspicace.skinchanger.SMain
+name: SkinChanger
+version: 1.0
+author: mecperspicace
+load: STARTUP
+database: false
+commands:
+  s:
+    permission: skinchanger.s
+    permission-message: §cYou can't use this with actual permission. Please contact the server's administrator.
+    description: The main command of the plugin. Type /s for help.
+    usage: /s [on|off|mode|reload] <mode>
+    aliase: 
+    - skinchanger
+    - sc
