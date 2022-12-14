@@ -1,10 +1,40 @@
-# SkinChanger v1.0
-## Presentation :
-This plugin is in 1.8 minecraft version, it is a skin changer plugin. It will change the player's skin for season, the default season is christmas, the player's skin will be randomly change between 4 skin predefined (you can change the skin and add/remove season) at the player's login. The plugin is optimized for 1.8 but i think it will work correctly in 1.8+. The plugin will be load by server before the map for not interrupt other plugin.
+<div align="center">
+   
+<img src="https://user-images.githubusercontent.com/71231848/207540263-828430d8-9450-4177-96eb-79668a68d82e.png" width="150">
+
+## SkinChanger - Best skin changer according to the season
+
+<a href="/#"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/supported/spigot_46h.png" height="35"></a>
+<a href="/#"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/supported/paper_46h.png" height="35"></a>
+<a href="/#"><img height="35" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/documentation/generic_46h.png"></a>
+<a href="/#"><img alt="bukkit" height="35" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/bukkit_46h.png"></a>
+
+
+</div>
+
+**Lightweight** and **easy-to-use** spigot plugin to change the player skin according to the season! I hope you enjoy it!
+
+----
+
+## Features
+* 4 predifined skins.
+* Fast & Async NMS system.
+* Fully customizable!
+* 3 predifined season.
+* Less than 200 lignes of code!
+* YAML Configuration.
+* Supports 1.8+
+
+## Requirements
+* Spigot or Spigot-Based server
+* 1.8.x and newer server version
+* Minimum Java 8 version
+
 ## Installation :
 1) In build folder, you will be find the complied plugin in .jar.
 2) Download the SkinChangerv1.0.jar and place it in your plugin's folgder of your minecaft server.
 3) Restart your minecraft server.
+
 ## Usage :
 - For enabled the plugin, use : ```/s on```, for disbled the plugin use : ```/s off```.
 - You can change the current SkinChanger's mode with : ```/s mode <mode>```.
@@ -12,22 +42,3 @@ This plugin is in 1.8 minecraft version, it is a skin changer plugin. It will ch
 - If you want add custom mode, you can manualy add it in config.yml.
 - The skin format is : ```texture_value + texture_signature```.
 - For reload the config.yml, use ```/s reload```.
-## Code :
-- Made with JetBrains InteliJ IDEA
-- Using Spigot API
-## License :
-Copyright 2021 MecPerspicace
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
------------------------------------------------------
